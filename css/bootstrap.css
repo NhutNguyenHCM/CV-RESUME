@@ -4285,7 +4285,7 @@ fieldset:disabled .btn {
   white-space: nowrap;
 }
 
-.navbar-nav#otj {
+.navbar-nav {
   display: flex;
 /*   flex-direction: column; */
   padding-left: 0;
