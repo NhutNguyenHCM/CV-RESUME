@@ -4287,7 +4287,7 @@ fieldset:disabled .btn {
 
 .navbar-nav#otj {
   display: flex;
-  flex-direction: column;
+/*   flex-direction: column; */
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
